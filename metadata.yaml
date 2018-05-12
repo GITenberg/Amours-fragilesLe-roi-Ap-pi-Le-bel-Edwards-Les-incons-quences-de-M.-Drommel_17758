@@ -1,0 +1,33 @@
+_repo: Amours-fragilesLe-roi-Ap-pi-Le-bel-Edwards-Les-incons-quences-de-M.-Drommel_17758
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cherbuliez, Victor
+    alias: Cherbuliez, Charles Victor
+    birthdate: 1829
+    deathdate: 1899
+    gutenberg_agent_id: '927'
+    url: http://www.gutenberg.org/2009/agents/927
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Victor_Cherbuliez
+    - http://en.wikipedia.org/wiki/Victor_Cherbuliez
+description: ''
+gutenberg_bookshelf: FR Nouvelles
+gutenberg_issued: '2006-02-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17758'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PQ'
+title: 'Amours fragiles
+
+  Le roi Apépi—Le bel Edwards—Les inconséquences de M. Drommel'
+url: http://www.gutenberg.org/ebooks/17758
